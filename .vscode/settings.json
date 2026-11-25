@@ -1,0 +1,4 @@
+{
+    // O ambiente virtual fica fora da pasta do projeto (veja Iniciar.bat).
+    "python.defaultInterpreterPath": "${env:LOCALAPPDATA}\\TrabalhoSOFTB\\venv\\Scripts\\python.exe"
+}

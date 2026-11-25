@@ -1,0 +1,15 @@
+# Ambiente virtual (recriar com: python -m pip install -r requirements.txt)
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Pesos baixados automaticamente (yolo11n.pt, yolov8s-worldv2.pt)
+*.pt
+# ...exceto o modelo personalizado do grupo, que deve ser entregue junto
+!modelo_soft_b.pt
+
+# Fotos salvas pela aplicação
+capturas/*.jpg
+capturas/*.png

@@ -1,0 +1,4 @@
+Coloque aqui uma foto chamada "teste.jpg" (com pessoas, cadeiras, garrafas, carros...)
+para executar o teste da etapa 12.6:
+
+    python testes/06_teste_yolo_imagem.py
